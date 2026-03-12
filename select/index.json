@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "조각품 (Sculpture)",
+  "base_artist": "i-dle",
+  "createdAt": "2026-03-12T09:29:50.622971Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sculpture",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Sculpture_i-dle.txt"
+    }
+  ]
+}
